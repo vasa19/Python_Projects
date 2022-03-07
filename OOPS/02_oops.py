@@ -1,3 +1,5 @@
+# Constructor, Self and Comparing objects
+
 class Computer:
     def __init__(self):
         self.name = "Vasu"
