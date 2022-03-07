@@ -5,8 +5,6 @@ Attributes => Variables
 Behaviour => Methods(Function)
 '''
 
-# Computer is a class
-
 
 class Computer:
 
